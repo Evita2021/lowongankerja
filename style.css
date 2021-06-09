@@ -82,14 +82,6 @@ header {
     float: left;
 }
 
-.menu-icon {
-    display: none;
-    color: white;
-    float: right;
-    font-size: 25px;
-    padding: 21px 0;
-    display: none;
-}
 .header-right {
     float: right;
     background-color: #f583a5;
